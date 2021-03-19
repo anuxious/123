@@ -6,3 +6,5 @@ Learn how to create a responsive website using HTML CSS and JavaScript. After wa
 
 Thanks,
 [codermj](https://twitter.com/mjshofy)
+
+![preview](https://user-images.githubusercontent.com/76812554/111793575-9a2af580-88ef-11eb-94a7-b06ed40492a5.png)
